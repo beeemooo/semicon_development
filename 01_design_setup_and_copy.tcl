@@ -1,8 +1,4 @@
-#made by kjinsoo
-# module load
-#module load icc2/2021.06-SP5
-# open icc2_shell
-#icc2_shell -gui | tee -i ./04_placement.log
+
 
 #set current step & before step
 set step placement
